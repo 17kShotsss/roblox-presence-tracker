@@ -31,7 +31,7 @@ pip install customtkinter>=5.2.0 requests>=2.31.0 pyperclip>=1.8.2 pywin32>=306 
 3. Run the app:
 
 ```bash
-python main.py
+python jobid.pyw
 ```
 
 ---
